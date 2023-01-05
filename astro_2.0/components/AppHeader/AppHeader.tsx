@@ -19,12 +19,12 @@ export const AppHeader: FC = () => {
   function renderLogo(className?: string) {
     return (
       <a
-        href="https://astrodao.com/"
+        href="#"
         target="_blank"
         rel="noreferrer"
         className={cn(styles.logo, className)}
       >
-        <h2>SpaceRanch DAO</h2>
+        <h2>TSFA DAO</h2>
       </a>
     );
   }
