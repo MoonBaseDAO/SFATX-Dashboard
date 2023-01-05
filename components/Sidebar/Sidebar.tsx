@@ -169,7 +169,7 @@ export const Sidebar = forwardRef<HTMLElement, SidebarProps>((props, ref) => {
             </i>
           </div> */}
           <div className={styles.subheader}>
-            <h1>SpaceRanch DAO</h1>
+            <h1>SFATX DAO</h1>
           </div>
         </div>
         <div>
