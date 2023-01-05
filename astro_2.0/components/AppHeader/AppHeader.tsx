@@ -24,7 +24,7 @@ export const AppHeader: FC = () => {
         rel="noreferrer"
         className={cn(styles.logo, className)}
       >
-        <h2>TSFA DAO</h2>
+        <h2>SFATX DAO</h2>
       </a>
     );
   }
