@@ -115,15 +115,13 @@ export const Sidebar = forwardRef<HTMLElement, SidebarProps>((props, ref) => {
             myDaosIds={myDaosIds}
             href={TREASUREY_URL}
           />
-          <!--
-          <NavItem
+          {/* <NavItem
             label={t('organization')}
             icon="delegate"
             className={styles.item}
             myDaosIds={myDaosIds}
             href={ORGANIZATION_URL}
-          />
-          -->
+          / > */}
         </>
       );
     }
