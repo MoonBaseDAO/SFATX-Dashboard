@@ -1,5 +1,5 @@
 export const MAIN_PAGE_URL = '/';
-export const SPACE_RANCH_URL = '/dao/spaceranch.sputnikv2.testnet';
+export const SPACE_RANCH_URL = '/dao/space-force-association-texas.sputnik-dao.near';
 
 export const NFTS_URL = `${SPACE_RANCH_URL}/treasury/nfts`;
 export const MEMBERS_URL = `${SPACE_RANCH_URL}/groups/all`;
