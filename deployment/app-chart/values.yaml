@@ -86,12 +86,12 @@ version:
   branch: develop
 
 environment:
-  NEAR_ENV: "testnet"
-  NEAR_CONTRACT_NAME: "sputnikv2.testnet"
+  NEAR_ENV: "mainnet"
+  NEAR_CONTRACT_NAME: "sputnik-dao.near"
   ROKETO_CONTRACT_NAME: "streaming-r-v2.dcversus.testnet"
   ROKETO_MULTICALL_NAME: "multicall.lebedev.testnet"
   API_URL: "http://a6f2431dfded249d18fc7a20377342db-2021398035.eu-central-1.elb.amazonaws.com"
   AWS_BUCKET: "sputnik-dao"
   AWS_REGION: "eu-central-1"
-  STATS_API_URL: "https://testnet.api.daostats.io"
+  STATS_API_URL: "https://api.daostats.io"
   RELEASE_NOTES: "https://astrodao.canny.io/changelog"
